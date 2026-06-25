@@ -9,7 +9,7 @@ const CATEGORIES = ["All", "Suits", "Sherwanis", "Blazers", "Indo-Western"];
 
 const ITEMS = [
   {
-    src: "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?w=600&q=80&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1600091166971-7f9faad6c1e2?w=600&q=80&auto=format&fit=crop",
     title: "Navy Three-Piece",
     cat: "Suits",
     fabric: "Italian Wool Blend",
@@ -51,7 +51,7 @@ const ITEMS = [
     fabric: "Worsted Wool",
   },
   {
-    src: "https://images.unsplash.com/photo-1608030609295-a1476cba9e92?w=600&q=80&auto=format&fit=crop",
+    src: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80&auto=format&fit=crop",
     title: "Burgundy Textured",
     cat: "Blazers",
     fabric: "Tweed Blend",

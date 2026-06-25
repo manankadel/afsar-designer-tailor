@@ -104,7 +104,7 @@ export default function Contact() {
           <AnimatedSection delay={0.2} direction="right">
             <div className="relative aspect-square lg:aspect-[4/5] overflow-hidden">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3500.5!2d77.265!3d28.685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjjCsDQxJzA2LjAiTiA3N8KwMTUnNTQuMCJF!5e0!3m2!1sen!2sin!4v1"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3500.5!2d77.2644!3d28.6856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfce2a0000001%3A0x1!2sSeelampur%20Metro%20Station!5e0!3m2!1sen!2sin!4v1"
                 width="100%"
                 height="100%"
                 style={{ border: 0, filter: "invert(90%) hue-rotate(180deg) saturate(0.3) brightness(0.8)" }}
